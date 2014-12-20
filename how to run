@@ -1,0 +1,11 @@
+(load "interpreter.scm")
+(repl)
+(load "library.scm")
+(load "interpreter.scm")
+(repl)
+"Your commands you would like to try"
+////
+////
+/////
+(exit)
+(exit)
